@@ -50,7 +50,7 @@
 * Send Bulk sms To Collected Data 
 
 `$ python3 smsbot.py members.csv`
-
+`$ python add2group.py members.csv `
 * Update Tool
 
 `$ python3 setup.py -u`
