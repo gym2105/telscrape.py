@@ -32,7 +32,7 @@
 
 `$ git clone https://github.com/gym2105/telscrape.py.git`
 
-`$ cd TeleGram-Scraper`
+`$ cd telscrape.py`
 
 * Install requierments
 
